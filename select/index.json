@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Answer",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-01-05T03:44:48.794227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do You Really Want An Answer?",
+      "artist": "Zapp",
+      "has_synced": true,
+      "path": "select/01_Do_You_Really_Want_An_Answer_Zapp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Answer",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Answer_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "Nite Jewel",
+      "has_synced": true,
+      "path": "select/03_The_Answer_Nite_Jewel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Devil's Answer",
+      "artist": "Atomic Rooster",
+      "has_synced": false,
+      "path": "select/04_Devil's_Answer_Atomic_Rooster.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Devils Answer (Demo Version)",
+      "artist": "Atomic Rooster",
+      "has_synced": false,
+      "path": "select/05_Devils_Answer_(Demo_Version)_Atomic_Rooster.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Answer The Door",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/06_Don't_Answer_The_Door_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Answer the Door, Parts One and Two",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/07_Don't_Answer_the_Door,_Parts_One_and_Two_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Music Is the Answer",
+      "artist": "Danny Tenaglia feat. Celeda",
+      "has_synced": false,
+      "path": "select/08_Music_Is_the_Answer_Danny_Tenaglia_feat._Celeda.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Answer feat. Big in Japan (Baltimore) - Trentemøller Remix",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_The_Answer_feat._Big_in_Japan_(Baltimore)_-_Trentemøller_Remix_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "UNKLE feat. Big in Japan [Baltimore]",
+      "has_synced": true,
+      "path": "select/10_The_Answer_UNKLE_feat._Big_in_Japan_[Baltimore].lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Answer (feat. Big In Japan (Baltimore))",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/11_The_Answer_(feat._Big_In_Japan_(Baltimore))_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Answer Song",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/12_Answer_Song_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Is the Answer",
+      "artist": "Utopia",
+      "has_synced": false,
+      "path": "select/13_Love_Is_the_Answer_Utopia.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Answer (Hallo Deutschland)",
+      "artist": "Falco",
+      "has_synced": false,
+      "path": "select/14_No_Answer_(Hallo_Deutschland)_Falco.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Answer",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_Answer_幾田りら.txt"
+    }
+  ]
+}
